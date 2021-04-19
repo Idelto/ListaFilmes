@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ListaFilmes</string>
+
+
+    <!-- Filmes -->
+
+    <string name="o_regresso_sinopse">Após ser atacado por um urso, o caçador Hugh Glass é abandonado na
+        floresta por seu companheiro John Fitzgerald. Apesar de muito ferido, Glass consegue sobreviver e
+        vai em busca de vingança.</string>
+
+    <string name="gladiador_sinopse">Maximus é um poderoso general romano, amado pelo povo e pelo imperador
+        Marcus Aurelius. Antes de sua morte, o Imperador desperta a ira de seu filho Commodus ao tornar pública
+        a sua predileção em deixar o trono para Maximus. Sedento pelo poder, Commodus mata seu pai, assume a coroa
+        e ordena a morte de Maximus, que consegue fugir antes de ser pego, e passa a se esconder como um escravo
+        e gladiador enquanto vai atrás de vingança.</string>
+
+    <string name="bastardos_inglorios_sinopse">Durante a Segunda Guerra Mundial, na França, um grupo de judeus
+        americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna,
+        uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do
+        partido.</string>
+
+    <string name="oito_odiados_sinopse">Em busca de abrigo para se proteger de uma nevasca, dois caçadores de
+        recompensas, um prisioneiro e um homem que alega ser xerife conhecem quatro estranhos.</string>
+
+    <string name="prendame_seforcapaz_sinopse">Frank Abagnale Jr. já trabalhou como médico, advogado e copiloto,
+        tudo isso antes de completar 18 anos. Mestre na arte do disfarce, ele aproveita suas habilidades para viver
+        a vida como quer e praticar golpes milionários, que fazem com que se torne o ladrão de banco mais
+        bem-sucedido da história dos Estados Unidos com apenas 17 anos. Mas em seu encalço está o agente do FBI
+        Carl Hanratty, que usa todos os meios que tem ao seu dispor para encontrá-lo e capturá-lo, mas Frank está
+        sempre à frente.</string>
+
+    <string name="ultimo_portal_sinopse">Dean Corso é especializado em rastreamento de volumes raros e exóticos
+        para colecionadores. Recentemente, Boris Balkan adquiriu um texto satânico do século XVII chamado O Último
+        Portal, um livro lendário escrito pelo próprio Satanás. Com O Último Portal em sua posse, Corso logo se
+        vê no centro de estranhos e violentos acontecimentos. Quando seu apartamento é saqueado, ele é perseguido
+        por outros ferozmente determinados a recuperarem o livro.</string>
+
+    <string name="john_wick_sinopse">John Wick é um lendário assassino de aluguel aposentado, lidando com o luto
+        após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu
+        carro, ele é forçado a voltar à ativa e inicia sua vingança.</string>
+
+    <string name="o13_distrito_sinopse">A área de Brick Mansions é extremamente violenta e abandonada pela polícia
+        local, que foi corrompida pelo crime organizado. Todo dia é uma batalha para o honesto detetive Damien
+        Collier, que pretende vingar o assassinato do seu pai. Ele recebe a missão de entrar na perigosa região e
+        localizar uma bomba que pode destruir a cidade de Detroit inteira. Para tanto, Damien conta com a ajuda do
+        jovem Lino, que precisa tirar a namorada das mãos de um traficante.</string>
+
+    <string name="imortais_sinopse">O impiedoso rei Hyperion busca o arco de Épiro para dominar o mundo e destruir
+        os deuses. O único que pode detê-lo é Theseus, um corajoso jovem escolhido por Zeus. Com a ajuda da
+        sacerdotisa Phaedra, ele comandará essa batalha épica.</string>
+
+    <string name="Rambo4_sinopse">Vinte anos depois, John Rambo vive na Tailândia e leva uma vida simples e
+        solitária nas montanhas, pescando e capturando cobras venenosas para vender. Um grupo de missionários
+        precisa passar pelas minas terrestres escondidas pelo caminho que leva ao campo de refugiados, onde
+        pretendem entregar suprimentos médicos e comida para a tribo Karen. Depois de muita insistência, Rambo
+        aceita levá-los, porém, um tempo depois, o grupo é sequestrado pelo exército birmanês e o herói terá de
+        resgatá-los.</string>
+
+    <!-- Filmes -->
+</resources>
